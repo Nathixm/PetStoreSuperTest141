@@ -1,0 +1,16 @@
+{
+    "id": 297537601,
+    "category": {
+      "id": 1,
+      "name": "dog"
+    },
+    "name": "Jake",
+    "photoUrls": [],
+    "tags": [
+      {
+        "id": 1,
+        "name": "vaccinated"
+      }
+    ],
+    "status": "available"
+  }
